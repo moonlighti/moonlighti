@@ -19,3 +19,13 @@ git remote add origin git@github.com:moonlighti/moonlighti.git
 git remote add origin git@github.com:moonlighti/moonlighti.git
  git branch -M main 
 git push -u origin main
+
+
+
+有所得，还是不太熟悉的原因，需要Linux的基础。
+
+制定下期目标。
+
+计算机系统，或者是再次学习Linux的知识。
+
+很有必要的。
